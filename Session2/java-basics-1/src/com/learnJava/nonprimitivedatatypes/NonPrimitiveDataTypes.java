@@ -7,6 +7,8 @@ public class NonPrimitiveDataTypes {
 
     public static void main(String[] args) {
 
+        String sample = "Dilip";
+
         //Different ways of creating a String Object.
         //Approach1
         String str = "Hello World";

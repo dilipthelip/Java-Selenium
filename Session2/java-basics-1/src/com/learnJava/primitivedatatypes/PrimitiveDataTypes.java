@@ -13,13 +13,14 @@ public class PrimitiveDataTypes {
         char capitalC = 'C';
         System.out.println("capitalC : " + capitalC);
 
+
         byte b = 100;
         System.out.println("b : " + b);
 
         short s = 10000;
         System.out.println("s : " + s);
 
-        int i = 100000;
+        int i = 2147483647;
         System.out.println("i : " + i);
 
         long l = 1l;
